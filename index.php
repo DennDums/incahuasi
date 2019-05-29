@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title></title>
+	<title>Leslie Soto S.</title>
 	
 	<link rel="stylesheet" href="css/mobile.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Oswald:700" rel="stylesheet">
