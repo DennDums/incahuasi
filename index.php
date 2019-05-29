@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title></title>
 	
-	<link rel="stylesheet" href="css/mobile.css" media="screen and (max-width:760px)">
+	<link rel="stylesheet" href="css/mobile.css">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Oswald:700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Bree+Serif&display=swap" rel="stylesheet">
 
