@@ -4,8 +4,8 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Leslie Soto S.</title>
-	
-	<link rel="stylesheet" href="css/mobile.css">
+	<link rel="stylesheet" href="css/estilos.css">
+	<link rel="stylesheet" href="css/mobile.css" media="screen and (max-width:760px)">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Oswald:700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Bree+Serif&display=swap" rel="stylesheet">
 
