@@ -66,11 +66,12 @@
 		<div id="ad08">
 				<h1>------</h1>
 			<p>
-				Cada vez te siento lejos <br>
-				¿Qué nos está pasando? <br>
-				¿Nuestros caminos no coinciden? <br>
-				Anhelo lo que en algún momento viví <br>
-				Recostado en tu amor y en mi soledad... <br>
+				Cómo sacarte de mi mente <br>
+				Si el quien controla mi mente <br> 
+				No soy yo, eres tú<br> <br>
+				Cómo decirte te amo <br>
+				Si eso dicen los humanos<br>
+				Y tú, eres una Diosa.<br>
 
 			</p>
 			<P id="lesss">A Leslie Soto</P>
